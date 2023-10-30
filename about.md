@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Giorgi Kinkladze
 ---
 
 ### Disclaimer
 
 The content of this CV was generated with the assistance of ChatGPT under my close supervision to ensure accuracy and relevance. While ChatGPT provided the structure and wording, all information and details presented are a genuine representation of my professional experience and background.
+
+### Giorgi Kinkladze
 
 I have over 5 years of experience as a backend software developer. I've been fortunate to work on a wide variety of projects, some of which have been particularly enriching and enlightening. While I have a deep passion for Java and its associated technologies, I've always been keen on exploring new horizons and seeking new challenges.
 
