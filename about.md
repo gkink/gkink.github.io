@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Giorgi Kinkladze
 ---
-
-# [Giorgi Kinkladze]
 
 I have over 5 years of experience as a backend software developer. I've been fortunate to work on a wide variety of projects, some of which have been particularly enriching and enlightening. While I have a deep passion for Java and its associated technologies, I've always been keen on exploring new horizons and seeking new challenges.
 
