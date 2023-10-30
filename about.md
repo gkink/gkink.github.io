@@ -49,8 +49,8 @@ I have over 5 years of experience as a backend software developer. I've been for
 ## Employment
 
 ### Ad Server
-**Role**: Senior Software Engineer
-**Duration**: September 2022 - Present  
+**Role**: Senior Software Engineer   
+**Duration**: September 2022 - Present   
 **Technologies**: Java 17, Doorkeeper, GCP, Aerospike, Clickhouse, Grafana, Graphite, Jenkins
 
 On this project, I'm involved in the realm of AdTech, focusing on developing and optimizing solutions for SSP (Supply-Side Platforms) and a publisher console designed to empower publishers. My role is pivotal in harnessing the power of technologies like Java 17, GCP, Aerospike, Clickhouse, Grafana, and Graphite to ensure seamless, high-performance operations. While our tech stack also encompasses Terraform and Ansible, those components are primarily managed by our dedicated DevOps team.
