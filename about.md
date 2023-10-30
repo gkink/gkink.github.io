@@ -29,7 +29,7 @@ I have over 5 years of experience as a backend software developer. I've been for
   
 
 ### Languages
-- English: Full working proficiency and bar-hop/drunk talk capability
+- English: Full working proficiency with bar-hop/drunk talk expertise
 - Georgian: Ninja proficiency 🥷
 
 ## Employment
