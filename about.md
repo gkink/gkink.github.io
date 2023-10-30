@@ -75,7 +75,7 @@ The project aimed to provide a flexible and highly configurable browser-based gr
 **Role**: Web Developer  
 **Duration**: August 2019 - January 2021  
 **Technologies**: Java, Java EE (JPA, CDI, Jax-rs, Jax-ws), WildFly, Postgresql, Gradle, Git  
-**Note**: Family that I lost long ago <3 <3 <3 
+**Note**: Family that I abandoned long ago <3 <3 <3 
 
 A state-of-the-art cryptocurrency trading platform that amalgamated over ten major crypto exchanges, offering users the ability to synchronize with their exchange funds, design trading bots, and automate their trading strategies. My role encompassed sprint planning, task estimation, research, performance optimization, and bot development. I pioneered a framework that streamlined bot implementation, leading to a significant reduction in development time.
 
