@@ -59,7 +59,7 @@ On this project, I'm involved in the realm of AdTech, focusing on developing and
 **Role**: Web Developer  
 **Duration**: August 2021 - September 2022  
 **Technologies**: Java, Spring (Data, Web, CDI), Maven, SVN  
-**Note**: This is here only to let you know that I wan't unemployed during this period of my life, it was the worst project that I've ever worked on. If god really exists and he really is good they should'n exist.
+**Note**: This is here only to let you know that I wasn't unemployed during this period of my life, it was the worst project that I've ever worked on. If god really exists and he really is good they should'n exist.
 
 This software enabled insurance company operators to create, manage, insure, and re-insure risks. It played a pivotal role in the company's daily operations and business processes. My key responsibilities included participating in sprint planning, task estimation, unit testing, and refactoring legacy procedural code to make it object-oriented. I took the initiative to restructure many existing modules, adopting a divide-and-conquer strategy.
 
