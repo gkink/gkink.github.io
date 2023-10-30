@@ -66,7 +66,8 @@ This software enabled insurance company operators to create, manage, insure, and
 ### Generic Grid for a Financial Institution
 **Role**: Web Developer, Protector of easy target developers from the PM  
 **Duration**: January 2021 - August 2021  
-**Technologies**: Java, Java EE (JPA, CDI, Jax-rs), Postgresql, Maven, Git
+**Technologies**: Java, Java EE (JPA, CDI, Jax-rs), Postgresql, Maven, Git  
+**Note**: Hated this project too, no new features to work on
 
 The project aimed to provide a flexible and highly configurable browser-based grid to clients for versatile data management. My contributions spanned across sprint planning, task estimation, unit testing, and refactoring existing modules to enhance testability. I was instrumental in restructuring numerous modules to enhance their testability.
 
