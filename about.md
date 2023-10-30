@@ -83,7 +83,7 @@ A state-of-the-art cryptocurrency trading platform that integrated over ten majo
 **Role**: Web Developer  
 **Duration**: July 2018 - August 2019  
 **Technologies**: Java, WildFly, Keycloak, Oracle, Maven, Git  
-**Note**: Sometimes I still miss these guys, not often though, not often 
+**Note**: Sometimes I still miss these guys, not often though
 
 The Bank of Georgia aimed to transition to open banking and needed an industry-standard authentication system. I played a pivotal role in integrating Keycloak with the bank's existing user database, ensuring seamless user experience while enhancing security measures. My primary achievement was transitioning the entire bank to industry-standard authentication protocols.
 
