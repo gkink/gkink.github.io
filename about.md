@@ -28,7 +28,9 @@ I have over 5 years of experience as a backend software developer. I've been for
   - Project Estimation & Planning
   
 
-- **Languages**: English (B2)
+### Languages
+- English: Full working proficiency and bar-hop/drunk talk capability
+- Georgian: Ninja proficiency 🥷
 
 ## Employment
 
