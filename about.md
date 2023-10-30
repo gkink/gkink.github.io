@@ -8,6 +8,20 @@ The content of this CV was generated with the assistance of ChatGPT under my clo
 
 ### Giorgi Kinkladze
 
+## A Little About Me:
+
+Before you jump into my programming skills, here's a peek into my life outside of work. I enjoy coming up with fun little rhymes and spotting connections between some words that usually don't seem to be related, can't give you any spicy example now because most of the time I do that in Georgian which I believe you don't speak my fellow reader.
+
+I'm into a bunch of sports. I play a mean game of ping-pong, love snowboarding and the undisputed king of riverbank rock-hopping (it's a niche sport with me as the only one practicioner). I'm a collector of cool boardgames and a game master of play nights beyound count. As the founder of an organization 'The men belong to the kitchen' I myself like to cook. I also like exploring exotic dishes from my travels around Georgia and beyond.
+
+If my social life was a volcano it would definitely be Mauna Loa (internet says it's the most active one). I often go to bars, festivals, boardgame nights because why not, right?. But this volcano also has some quiet times during which it watches TV shows, movies, animes, cartoons... He also lives a parallel life on Reddit like every other regular redditor.
+
+Sooner or later failure comes to all of us, in my case I tried learning musical instruments like the guitar, ukulele and djembe. It started well, it continued also very well but at some point I just stopped doing it who knows why, and here I am, still a programmer writing this delicious 'about' section. 
+
+I'm a Capricorn. If that tidbit sparks anything in you, well... let's just share a virtual chuckle
+
+## And even less about me as a software engineer
+
 I have over 5 years of experience as a backend software developer. I've been fortunate to work on a wide variety of projects, some of which have been particularly enriching and enlightening. While I have a deep passion for Java and its associated technologies, I've always been keen on exploring new horizons and seeking new challenges.
 
 ## Technical Experience
