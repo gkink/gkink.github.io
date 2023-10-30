@@ -14,11 +14,11 @@ Before you jump into my programming skills, here's a peek into my life outside o
 
 I'm into a bunch of sports. I play a mean game of ping-pong, love snowboarding and I'm the undisputed king of riverbank rock-hopping (it's a niche sport with me as the only one practicioner). I'm a collector of epic board games and the Game Master of countless play nights. As the founder of an organization 'The men belong to the kitchen' I myself like to cook. I also like exploring exotic dishes from my travels around Georgia and beyond.
 
-If my social life was a volcano it would definitely be Mauna Loa (internet says it's the most active one). I often go to bars, festivals, boardgame nights because why not, right?. But this volcano also has some quiet times during which it watches TV shows, movies, animes, cartoons... He also lives a parallel life on Reddit like every other regular redditor.
+If my social life was a volcano it would definitely be Mauna Loa (internet says it's the most active one) as I often go to bars, festivals having boardgame nights because why not, right? But this volcano also has some quiet times during which it watches TV shows, movies, animes, cartoons... He also lives a parallel life on Reddit like every other regular redditor.
 
-Sooner or later failure comes to all of us, in my case I tried learning musical instruments like the guitar, ukulele and djembe. It started well, it continued also very well but at some point I just stopped doing it who knows why, and here I am, still a programmer writing this delicious 'about' section. 
+Sooner or later failure comes to all of us, in my case I tried learning musical instruments like the guitar, ukulele and djembe. It started well, it continued well but at some point I just stopped doing it, who knows why, and here I am, still a programmer writing this 'About Me' about me. 
 
-I'm a Capricorn. If that tidbit sparks anything in you, well... let's just share a virtual chuckle
+I'm a Capricorn. If that means anything to you, it's just sad.
 
 ## And even less about me as a software engineer
 
