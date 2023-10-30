@@ -1,14 +1,14 @@
 ---
 layout: page
+title: Giorgi Kinkladze
 ---
 
 ### Disclaimer
 
 The content of this CV was generated with the assistance of ChatGPT under my close supervision to ensure accuracy and relevance. While ChatGPT provided the structure and wording, all information and details presented are a genuine representation of my professional experience and background.
 
-### Giorgi Kinkladze
 
-## A Little About Me:
+## A Little About Me
 
 Before you jump into my programming skills, here's a peek into my life outside of work. I enjoy coming up with fun little rhymes and spotting connections between some words that usually don't seem to be related, can't give you any spicy example now because most of the time I do that in Georgian which I believe you don't speak my fellow reader.
 
