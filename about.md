@@ -18,7 +18,7 @@ I'm socially active, I often go to bars, festivals having boardgame nights... Du
 
 ## And a little about me as a software engineer
 
-I’m a senior software engineer with 7+ years of hands-on experience across diverse software projects. I specialize in Java (Java 7/8/11/17/21) and related technologies, and I've worked extensively in industries like Banking (2.5 years), Crypto (1.5 years), AdTech (2.5 years), and Ticket Marketplaces (1.5 years and ongoing).
+I’m a senior software engineer with 8 years of hands-on experience across diverse software projects. I specialize in Java (Java 7/8/11/17/21) and related technologies, and I've worked extensively in industries like Banking (2.5 years), Crypto (1.5 years), AdTech (2.5 years), and Ticket Marketplaces (1.5 years and ongoing).
 
 Throughout my career, I’ve worked with both monolithic and microservice architectures. I have experience building both synchronous and asynchronous systems, developing highly concurrent and multithreaded applications, and optimizing high-throughput systems — including one handling over 400,000 requests per second. I’ve worked on numerous optimization tasks and have strong experience with both SQL and NoSQL databases.
 
@@ -83,14 +83,14 @@ The project is a ticket marketplace (a place where users can buy tickets for dif
 
 ### Ad Server
 **Role**: Senior Software Engineer   
-**Duration**: May 2022 - November 2024
+**Duration**: May 2021 - November 2024
 **Technologies**: Java 17, Doorkeeper, GCP, Aerospike, Clickhouse, Grafana, Graphite, Jenkins
 
 On this project, I'm involved in the realm of AdTech, focusing on developing and optimizing solutions for SSP (Supply-Side Platforms) and a publisher console designed to empower publishers. My role is pivotal in harnessing the power of technologies like Java 17, GCP, Aerospike, Clickhouse, Grafana, and Graphite to ensure seamless, high-performance operations. While our tech stack also encompasses Terraform and Ansible, those components are primarily managed by our dedicated DevOps team.
 
 ### Crypto Trading Platform for a Start-Up
 **Role**: Web Developer  
-**Duration**: August 2019 - January 2021  
+**Duration**: September 2019 - April 2021  
 **Technologies**: Java, Java EE (JPA, CDI, Jax-rs, Jax-ws), WildFly, Postgresql, Gradle, Git  
 **Note**: Family that I abandoned long ago <3 <3 <3 
 
