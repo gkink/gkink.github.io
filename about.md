@@ -24,49 +24,55 @@ Throughout my career, I’ve worked with both monolithic and microservice archit
 
 I'm highly responsible and take pride in simplifying complex flows by breaking them down into understandable, actionable parts. I have consistently worked in Agile environments and am very comfortable with that methodology. Additionally, I’ve conducted interviews for various companies and projects, contributing to technical hiring and team growth.
 
-## Technlogies
+## Commonly Used Technologies
 
-- **Languages**: Java, Python
-- **Frameworks & Libraries**:
-  - Spring Boot
-  - Doorkeeper (Proprietary Netty based asynchronous web framework on Java)
-  - JUnit, Mockito
-  - Liquibase, Flyway
-  - OpenAPI
-  - DDD
-- **Databases**:
-  - PostgreSQL
-  - Oracle
-  - ClickHouse
-  - InfluxDB
-  - Aerospike
-- **Development Environments**: Vim, Linux, IntelliJ
-- **DevOps & CI/CD**:
-  - Git
-  - GitHub
-  - Bitbucket
-  - SVN
-  - Jenkins
-  - Docker
-  - GCP
-- **Messaging & Streaming**: Kafka
-- **Authentication & Security**: Keycloak
-- **Monitoring & Observability**:
-  - Telegraf
-  - Carbon-c-relay
-  - Grafana
-  - Graphite
-- **Core Competencies**: 
-  - Object-Oriented Patterns
-  - Async Java
-  - Refactoring
-  - Performance-Oriented Coding
-  - Complex Algorithm Design
-  - Test-Driven Development (Junit, Mockito)
-  - Integration Testing
-  - Multithreaded Java
-  - Project Estimation & Planning
-  - System Design (Using both monolith or microsevice approach)
+### Languages & Core Tools
+**Languages**: Java (7–21), Python  
+**Editors & OS**: Vim, IntelliJ, Linux  
+**Version Control**: Git, GitHub, Bitbucket, SVN  
+
+### Backend Frameworks & Architectures
+Spring Boot  
+Doorkeeper (Netty-based async framework)  
+OpenAPI  
+JUnit, Mockito  
+Liquibase, Flyway  
+
+### Data & Storage
+PostgreSQL  
+Oracle  
+ClickHouse  
+Aerospike  
+InfluxDB  
+
+### Messaging & Streaming
+Kafka  
+
+### Infrastructure & DevOps
+Jenkins  
+Docker  
+Google Cloud Platform (GCP)  
+Maven, Gradle  
+
+### Monitoring & Observability
+Grafana  
+Graphite  
+Telegraf  
+Carbon-c-relay  
+
+### Security & Authentication
+Keycloak  
+
+### Engineering Strengths
+Async Java & Multithreading  
+Object-Oriented Design Patterns  
+Domain-Driven Design (DDD) 
+Performance-Oriented Coding  
+Complex Algorithm Design  
+Test-Driven Development (TDD) & Integration Testing  
+System Design (Monoliths & Microservices)  
+Code Refactoring & Simplification  
+Project Estimation & Planning  
 
 ### Languages
 English: Full working proficiency with bar-hop/drunk talk expertise  
