@@ -16,7 +16,7 @@ I'm into a bunch of sports. I play a mean game of ping-pong and foosball, love s
 
 I'm socially active, I often go to bars, festivals having boardgame nights... During my quiet time time I watch TV shows, movies, animes, cartoons... I also have  a parallel life on Reddit like every other regular redditor.
 
-## And even less about me as a software engineer
+## And a little about me as a software engineer
 
 I’m a senior backend engineer with 7+ years of hands-on experience across diverse software projects. I specialize in Java (Java 7/8/11/17/21) and related technologies, and I've worked extensively in industries like Banking (2.5 years), Crypto (1.5 years), AdTech (2.5 years), and Ticket Marketplaces (1.5 years and ongoing).
 
