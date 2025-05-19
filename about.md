@@ -18,7 +18,7 @@ I'm socially active, I often go to bars, festivals having boardgame nights... Du
 
 ## And a little about me as a software engineer
 
-I’m a senior backend engineer with 7+ years of hands-on experience across diverse software projects. I specialize in Java (Java 7/8/11/17/21) and related technologies, and I've worked extensively in industries like Banking (2.5 years), Crypto (1.5 years), AdTech (2.5 years), and Ticket Marketplaces (1.5 years and ongoing).
+I’m a senior software engineer with 7+ years of hands-on experience across diverse software projects. I specialize in Java (Java 7/8/11/17/21) and related technologies, and I've worked extensively in industries like Banking (2.5 years), Crypto (1.5 years), AdTech (2.5 years), and Ticket Marketplaces (1.5 years and ongoing).
 
 Throughout my career, I’ve worked with both monolithic and microservice architectures. I have experience building both synchronous and asynchronous systems, developing highly concurrent and multithreaded applications, and optimizing high-throughput systems — including one handling over 400,000 requests per second. I’ve worked on numerous optimization tasks and have strong experience with both SQL and NoSQL databases.
 
