@@ -14,23 +14,48 @@ Before you jump into my programming skills, here's a peek into my life outside o
 
 I'm into a bunch of sports. I play a mean game of ping-pong and foosball, love snowboarding and I'm the undisputed king of riverbank rock-hopping (it's a niche sport with me as the only one practicioner). I'm a collector of epic board games and the Game Master of countless play nights. As the founder of an organization 'The men belong to the kitchen' I myself like to cook. I also like exploring exotic dishes from my travels around Georgia and beyond.
 
-If my social life was a volcano it would definitely be Mauna Loa (internet says it's the most active one) as I often go to bars, festivals having boardgame nights because why not, right? But this volcano also has some quiet times during which it watches TV shows, movies, animes, cartoons... He also lives a parallel life on Reddit like every other regular redditor.
-
-Sooner or later failure comes to all of us, in my case I tried learning musical instruments like the guitar, ukulele and djembe. It started well, it continued well but at some point I just stopped doing it, who knows why, and here I am, still a programmer writing this 'About Me' about me. 
-
-I'm a Capricorn. If that means anything to you, it's just sad.
+I'm socially active, I often go to bars, festivals having boardgame nights... During my quiet time time I watch TV shows, movies, animes, cartoons... I also have  a parallel life on Reddit like every other regular redditor.
 
 ## And even less about me as a software engineer
 
-I have over 5 years of experience as a backend software developer. I've been fortunate to work on a wide variety of projects, some of which have been particularly enriching and enlightening. While I have a deep passion for Java and its associated technologies, I've always been keen on exploring new horizons and seeking new challenges.
+I’m a senior backend engineer with 7+ years of hands-on experience across diverse software projects. I specialize in Java (Java 7/8/11/17/21) and related technologies, and I've worked extensively in industries like Banking (2.5 years), Crypto (1.5 years), AdTech (2.5 years), and Ticket Marketplaces (1.5 years and ongoing).
 
-## Technical Experience
+Throughout my career, I’ve worked with both monolithic and microservice architectures. I have experience building both synchronous and asynchronous systems, developing highly concurrent and multithreaded applications, and optimizing high-throughput systems — including one handling over 400,000 requests per second. I’ve worked on numerous optimization tasks and have strong experience with both SQL and NoSQL databases.
 
-- **Programming Languages**: Java, with basic knowledge in C, C++, Javascript, and Python.
-- **Frameworks & Libraries**: If you think this line matters please stop reading
-- **Other Technologies**: Aerospike, Clickhouse, GCP, Grafana, carbon-c-relay, Docker, Linux <3
-- **Development Environments**: Vim <3, IntelliJ
-- **Version Control**: GIT <3, SVN
+I'm highly responsible and take pride in simplifying complex flows by breaking them down into understandable, actionable parts. I have consistently worked in Agile environments and am very comfortable with that methodology. Additionally, I’ve conducted interviews for various companies and projects, contributing to technical hiring and team growth.
+
+Here is a non-complete list of technologies I've worked with:
+
+- **Languages**: Java, Python
+- **Frameworks & Libraries**:
+  - Spring Boot
+  - Doorkeeper (Proprietary Netty based asynchronous web framework on Java)
+  - JUnit, Mockito
+  - Liquibase, Flyway
+  - OpenAPI
+  - DDD
+- **Databases**:
+  - PostgreSQL
+  - Oracle
+  - ClickHouse
+  - InfluxDB
+  - Aerospike
+- **Development Environments**: Vim, Linux, IntelliJ
+- **DevOps & CI/CD**:
+  - Git
+  - GitHub
+  - Bitbucket
+  - SVN
+  - Jenkins
+  - Docker
+  - GCP
+- **Messaging & Streaming**: Kafka
+- **Authentication & Security**: Keycloak
+- **Monitoring & Observability**:
+  - Telegraf
+  - Carbon-c-relay
+  - Grafana
+  - Graphite
 - **Core Competencies**: 
   - Object-Oriented Patterns
   - Async Java
@@ -39,8 +64,9 @@ I have over 5 years of experience as a backend software developer. I've been for
   - Complex Algorithm Design
   - Test-Driven Development (Junit, Mockito)
   - Integration Testing
+  - Multithreaded Java
   - Project Estimation & Planning
-  
+  - System Design (Using both monolith or microsevice approach)
 
 ### Languages
 - English: Full working proficiency with bar-hop/drunk talk expertise
@@ -48,28 +74,19 @@ I have over 5 years of experience as a backend software developer. I've been for
 
 ## Employment
 
+### Ticket Marketplace
+**Role**: Senior Software Engineer   
+**Duration**: November 2024 - Present
+**Technologies**: Java 21, Spring Boot, GCP, Kafka, Postgresql, OpenApi, DDD
+
+The project is a ticket marketplace (a place where users can buy tickets for different events). It collects inventory for many different events and categorizes them, allowing users to easily search and filter. The platform also integrates with multiple aggregators (partners who provide us with tickets), enables users to buy or sell tickets, and handles delivery in the case of physical tickets. The project is written in microservices. My team’s role is to rewrite the module responsible for collecting tickets from different aggregators and to ensure that all inventory is up to date. My role on the project is to design and implement the new architecture.
+
 ### Ad Server
 **Role**: Senior Software Engineer   
-**Duration**: September 2022 - Present   
+**Duration**: May 2022 - November 2024
 **Technologies**: Java 17, Doorkeeper, GCP, Aerospike, Clickhouse, Grafana, Graphite, Jenkins
 
 On this project, I'm involved in the realm of AdTech, focusing on developing and optimizing solutions for SSP (Supply-Side Platforms) and a publisher console designed to empower publishers. My role is pivotal in harnessing the power of technologies like Java 17, GCP, Aerospike, Clickhouse, Grafana, and Graphite to ensure seamless, high-performance operations. While our tech stack also encompasses Terraform and Ansible, those components are primarily managed by our dedicated DevOps team.
-
-### Internal Management Software for an Insurance Company
-**Role**: Web Developer  
-**Duration**: August 2021 - September 2022  
-**Technologies**: Java, Spring (Data, Web, CDI), Maven, SVN  
-**Note**: This is here only to let you know that I wasn't unemployed during this period of my life, it was the worst project that I've ever worked on. If god really exists and he really is good they should'n exist.
-
-This software enabled insurance company operators to create, manage, insure, and re-insure risks. It played a pivotal role in the company's daily operations and business processes. My key responsibilities included participating in sprint planning, task estimation, unit testing, and refactoring legacy procedural code to make it object-oriented. I took the initiative to restructure many existing modules, adopting a divide-and-conquer strategy.
-
-### Generic Grid for a Financial Institution
-**Role**: Web Developer, Protector of easy target developers from the PM  
-**Duration**: January 2021 - August 2021  
-**Technologies**: Java, Java EE (JPA, CDI, Jax-rs), Postgresql, Maven, Git  
-**Note**: Hated this project too, no new features to work on
-
-The project aimed to provide a flexible and highly configurable browser-based grid to clients for versatile data management. My contributions spanned across sprint planning, task estimation, unit testing, and refactoring existing modules to enhance testability. I was instrumental in restructuring numerous modules to enhance their testability.
 
 ### Crypto Trading Platform for a Start-Up
 **Role**: Web Developer  
