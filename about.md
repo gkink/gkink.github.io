@@ -74,10 +74,10 @@ Here is a non-complete list of technologies I've worked with:
 
 ## Employment
 
-### Ticket Marketplace
-- **Role**: Senior Software Engineer   
-- **Duration**: November 2024 - Present
-- **Technologies**: Java 21, Spring Boot, GCP, Kafka, Postgresql, OpenApi, DDD
+### Ticket Marketplace  
+**Role**: Senior Software Engineer  
+**Duration**: November 2024 - Present  
+**Technologies**: Java 21, Spring Boot, GCP, Kafka, Postgresql, OpenApi, DDD  
 
 The project is a ticket marketplace (a place where users can buy tickets for different events). It collects inventory for many different events and categorizes them, allowing users to easily search and filter. The platform also integrates with multiple aggregators (partners who provide us with tickets), enables users to buy or sell tickets, and handles delivery in the case of physical tickets. The project is written in microservices. My team’s role is to rewrite the module responsible for collecting tickets from different aggregators and to ensure that all inventory is up to date. My role on the project is to design and implement the new architecture.
 
