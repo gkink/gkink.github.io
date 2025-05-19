@@ -81,17 +81,17 @@ Here is a non-complete list of technologies I've worked with:
 
 The project is a ticket marketplace (a place where users can buy tickets for different events). It collects inventory for many different events and categorizes them, allowing users to easily search and filter. The platform also integrates with multiple aggregators (partners who provide us with tickets), enables users to buy or sell tickets, and handles delivery in the case of physical tickets. The project is written in microservices. My team’s role is to rewrite the module responsible for collecting tickets from different aggregators and to ensure that all inventory is up to date. My role on the project is to design and implement the new architecture.
 
-### Ad Server
-- **Role**: Senior Software Engineer   
-- **Duration**: May 2021 - November 2024
-- **Technologies**: Java 17, Doorkeeper, GCP, Aerospike, Clickhouse, Grafana, Graphite, Jenkins
+### Ad Server  
+**Role**: Senior Software Engineer   
+**Duration**: May 2021 - November 2024  
+**Technologies**: Java 17, Doorkeeper, GCP, Aerospike, Clickhouse, Grafana, Graphite, Jenkins  
 
 On this project, I'm involved in the realm of AdTech, focusing on developing and optimizing solutions for SSP (Supply-Side Platforms) and a publisher console designed to empower publishers. My role is pivotal in harnessing the power of technologies like Java 17, GCP, Aerospike, Clickhouse, Grafana, and Graphite to ensure seamless, high-performance operations. While our tech stack also encompasses Terraform and Ansible, those components are primarily managed by our dedicated DevOps team.
 
 ### Crypto Trading Platform for a Start-Up
-- **Role**: Web Developer  
-- **Duration**: September 2019 - April 2021  
-- **Technologies**: Java, Java EE (JPA, CDI, Jax-rs, Jax-ws), WildFly, Postgresql, Gradle, Git  
+**Role**: Web Developer  
+**Duration**: September 2019 - April 2021  
+**Technologies**: Java, Java EE (JPA, CDI, Jax-rs, Jax-ws), WildFly, Postgresql, Gradle, Git  
 
 A state-of-the-art cryptocurrency trading platform that integrated over ten major crypto exchanges, offering users the ability to synchronize with their exchange funds, design trading bots, and automate their trading strategies. My role encompassed sprint planning, task estimation, research, performance optimization, and bot development. I created a framework that streamlined bot implementation, leading to a significant reduction in development time.
 
