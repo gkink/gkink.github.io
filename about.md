@@ -24,7 +24,7 @@ Throughout my career, I’ve worked with both monolithic and microservice archit
 
 I'm highly responsible and take pride in simplifying complex flows by breaking them down into understandable, actionable parts. I have consistently worked in Agile environments and am very comfortable with that methodology. Additionally, I’ve conducted interviews for various companies and projects, contributing to technical hiring and team growth.
 
-Here is a non-complete list of technologies I've worked with:
+## Technlogies
 
 - **Languages**: Java, Python
 - **Frameworks & Libraries**:
@@ -69,8 +69,8 @@ Here is a non-complete list of technologies I've worked with:
   - System Design (Using both monolith or microsevice approach)
 
 ### Languages
-- English: Full working proficiency with bar-hop/drunk talk expertise
-- Georgian: Ninja proficiency 🥷
+English: Full working proficiency with bar-hop/drunk talk expertise  
+Georgian: Ninja proficiency 🥷  
 
 ## Employment
 
