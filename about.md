@@ -75,39 +75,37 @@ Here is a non-complete list of technologies I've worked with:
 ## Employment
 
 ### Ticket Marketplace
-**Role**: Senior Software Engineer   
-**Duration**: November 2024 - Present
-**Technologies**: Java 21, Spring Boot, GCP, Kafka, Postgresql, OpenApi, DDD
+- **Role**: Senior Software Engineer   
+- **Duration**: November 2024 - Present
+- **Technologies**: Java 21, Spring Boot, GCP, Kafka, Postgresql, OpenApi, DDD
 
 The project is a ticket marketplace (a place where users can buy tickets for different events). It collects inventory for many different events and categorizes them, allowing users to easily search and filter. The platform also integrates with multiple aggregators (partners who provide us with tickets), enables users to buy or sell tickets, and handles delivery in the case of physical tickets. The project is written in microservices. My team’s role is to rewrite the module responsible for collecting tickets from different aggregators and to ensure that all inventory is up to date. My role on the project is to design and implement the new architecture.
 
 ### Ad Server
-**Role**: Senior Software Engineer   
-**Duration**: May 2021 - November 2024
-**Technologies**: Java 17, Doorkeeper, GCP, Aerospike, Clickhouse, Grafana, Graphite, Jenkins
+- **Role**: Senior Software Engineer   
+- **Duration**: May 2021 - November 2024
+- **Technologies**: Java 17, Doorkeeper, GCP, Aerospike, Clickhouse, Grafana, Graphite, Jenkins
 
 On this project, I'm involved in the realm of AdTech, focusing on developing and optimizing solutions for SSP (Supply-Side Platforms) and a publisher console designed to empower publishers. My role is pivotal in harnessing the power of technologies like Java 17, GCP, Aerospike, Clickhouse, Grafana, and Graphite to ensure seamless, high-performance operations. While our tech stack also encompasses Terraform and Ansible, those components are primarily managed by our dedicated DevOps team.
 
 ### Crypto Trading Platform for a Start-Up
-**Role**: Web Developer  
-**Duration**: September 2019 - April 2021  
-**Technologies**: Java, Java EE (JPA, CDI, Jax-rs, Jax-ws), WildFly, Postgresql, Gradle, Git  
-**Note**: Family that I abandoned long ago <3 <3 <3 
+- **Role**: Web Developer  
+- **Duration**: September 2019 - April 2021  
+- **Technologies**: Java, Java EE (JPA, CDI, Jax-rs, Jax-ws), WildFly, Postgresql, Gradle, Git  
 
 A state-of-the-art cryptocurrency trading platform that integrated over ten major crypto exchanges, offering users the ability to synchronize with their exchange funds, design trading bots, and automate their trading strategies. My role encompassed sprint planning, task estimation, research, performance optimization, and bot development. I created a framework that streamlined bot implementation, leading to a significant reduction in development time.
 
 ### SSO for Bank of Georgia
-**Role**: Web Developer  
-**Duration**: July 2018 - August 2019  
-**Technologies**: Java, WildFly, Keycloak, Oracle, Maven, Git  
-**Note**: Sometimes I still miss these guys, not often though
+- **Role**: Web Developer  
+- **Duration**: July 2018 - August 2019  
+- **Technologies**: Java, WildFly, Keycloak, Oracle, Maven, Git  
 
 The Bank of Georgia aimed to transition to open banking and needed an industry-standard authentication system. I played a pivotal role in integrating Keycloak with the bank's existing user database, ensuring seamless user experience while enhancing security measures. My primary achievement was transitioning the entire bank to industry-standard authentication protocols.
 
 ### Vabank for Bank of Georgia
-**Role**: Junior Web Developer  
-**Duration**: February 2017 - July 2018  
-**Technologies**: Java, Java EE, SQL, WildFly, Oracle, Maven, Git, Subversion, JDBC
+- **Role**: Junior Web Developer  
+- **Duration**: February 2017 - July 2018  
+- **Technologies**: Java, Java EE, SQL, WildFly, Oracle, Maven, Git, Subversion, JDBC
 
 A robust platform for bank tellers and operators to perform a myriad of banking operations. My responsibilities were manifold, ranging from API development, server configuration, performance optimization, to application redesign for better resource efficiency.
 
